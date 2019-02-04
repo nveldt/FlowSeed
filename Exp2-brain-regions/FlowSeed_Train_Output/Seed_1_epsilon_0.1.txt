@@ -1,0 +1,144 @@
+Brain Dataset training region experiments for SEPCI when epsilon = 0.1
+Seed sets are made up of a set of 100 initial starter nodes inside the target region, which we grow by their neighborhood.
+We use four different types of penalties on excluding seed nodes:
+Type 1: there is no penalty on excluding seed nodes, but no additional soft penalties.
+Type 2: there is a strict penalty on excluding any nodes from the initial starter set.
+Type 3: strict penalty for excluding starter set. Soft penalties for other nodes, of weight neighbs/2 
+where neighbs[r] = number of nodes in the starter set that are adjacent to node r in the seed set.
+Type 4: strict penalty for excluding starter set. Soft penalty of 1 for every other node.
+
+Region 175 has conductance 0.1923 and size 3225 
+	Seed set: conductance = 0.3792, size = 2046 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+Type 1 		 652		20.987		 0.1615 	 0.2271 	 0.7515 	 0.1519 	 0.2528  
+Type 2 		 2633		17.451		 0.1292 	 0.2523 	 0.7976 	 0.6512 	 0.717  
+Type 3 		 4090		16.504		 0.1248 	 0.2815 	 0.6638 	 0.8419 	 0.7423  
+Type 4 		 4377		13.506		 0.1218 	 0.2832 	 0.6623 	 0.8989 	 0.7627  
+
+Region 172 has conductance 0.1745 and size 3501 
+	Seed set: conductance = 0.3825, size = 2045 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+Type 1 		 3453		16.988		 0.1107 	 0.2445 	 0.7370 	 0.7269 	 0.732  
+Type 2 		 3511		17.341		 0.1126 	 0.2482 	 0.7380 	 0.7401 	 0.739  
+Type 3 		 4291		11.742		 0.1081 	 0.2594 	 0.6926 	 0.8489 	 0.7628  
+Type 4 		 4352		12.524		 0.1102 	 0.2605 	 0.6896 	 0.8572 	 0.7643  
+
+Region 52 has conductance 0.1291 and size 3965 
+	Seed set: conductance = 0.4052, size = 1554 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+Type 1 		 287		16.339		 0.0491 	 0.0958 	 1.0000 	 0.0724 	 0.135  
+Type 2 		 1701		12.998		 0.0664 	 0.1560 	 0.9929 	 0.4260 	 0.5962  
+Type 3 		 2578		13.856		 0.0901 	 0.2364 	 0.9608 	 0.6247 	 0.7571  
+Type 4 		 2891		14.267		 0.1090 	 0.2600 	 0.9319 	 0.6794 	 0.7859  
+
+Region 57 has conductance 0.1274 and size 5105 
+	Seed set: conductance = 0.4119, size = 2230 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+Type 1 		 3294		22.976		 0.1028 	 0.2597 	 0.9350 	 0.6033 	 0.7334  
+Type 2 		 3481		17.848		 0.1128 	 0.2693 	 0.9331 	 0.6362 	 0.7566  
+Type 3 		 4543		16.708		 0.1236 	 0.2936 	 0.8873 	 0.7896 	 0.8356  
+Type 4 		 4598		12.43		 0.1270 	 0.2948 	 0.8780 	 0.7908 	 0.8321  
+
+Region 58 has conductance 0.1243 and size 5109 
+	Seed set: conductance = 0.4174, size = 2227 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+Type 1 		 3597		17.745		 0.1063 	 0.2718 	 0.9288 	 0.6539 	 0.7675  
+Type 2 		 3629		17.509		 0.1133 	 0.2812 	 0.9278 	 0.6590 	 0.7707  
+Type 3 		 5030		12.923		 0.1124 	 0.2976 	 0.8835 	 0.8698 	 0.8766  
+Type 4 		 5103		13.807		 0.1128 	 0.2983 	 0.8791 	 0.8781 	 0.8786  
+
+Region 196 has conductance 0.2054 and size 5832 
+	Seed set: conductance = 0.4426, size = 2144 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+Type 1 		 338		19.703		 0.2509 	 0.3284 	 0.6746 	 0.0391 	 0.0739  
+Type 2 		 2762		17.766		 0.1953 	 0.3870 	 0.7965 	 0.3772 	 0.512  
+Type 3 		 3754		12.167		 0.2160 	 0.4154 	 0.7507 	 0.4832 	 0.5879  
+Type 4 		 3776		12.769		 0.2184 	 0.4160 	 0.7474 	 0.4839 	 0.5874  
+
+Region 193 has conductance 0.1507 and size 7707 
+	Seed set: conductance = 0.4453, size = 2315 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+Type 1 		 451		21.867		 0.2062 	 0.3085 	 0.9756 	 0.0571 	 0.1079  
+Type 2 		 1679		17.932		 0.2470 	 0.3701 	 0.9309 	 0.2028 	 0.333  
+Type 3 		 3210		13.469		 0.2812 	 0.4061 	 0.8576 	 0.3572 	 0.5044  
+Type 4 		 3213		12.957		 0.2815 	 0.4062 	 0.8571 	 0.3573 	 0.5044  
+
+Region 114 has conductance 0.218 and size 8547 
+	Seed set: conductance = 0.4699, size = 2267 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+Type 1 		 418		18.384		 0.2068 	 0.3273 	 0.9593 	 0.0469 	 0.0895  
+Type 2 		 1703		15.427		 0.2263 	 0.4008 	 0.9360 	 0.1865 	 0.311  
+Type 3 		 3003		11.861		 0.3283 	 0.4515 	 0.8112 	 0.2850 	 0.4218  
+Type 4 		 3011		12.873		 0.3292 	 0.4517 	 0.8104 	 0.2855 	 0.4222  
+
+Region 200 has conductance 0.1653 and size 9493 
+	Seed set: conductance = 0.4728, size = 2378 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+Type 1 		 250		21.493		 0.2604 	 0.3677 	 0.9640 	 0.0254 	 0.0495  
+Type 2 		 1911		18.041		 0.3044 	 0.4267 	 0.8974 	 0.1807 	 0.3008  
+Type 3 		 3426		13.193		 0.3007 	 0.4540 	 0.8292 	 0.2993 	 0.4398  
+Type 4 		 3430		14.571		 0.3012 	 0.4541 	 0.8286 	 0.2994 	 0.4398  
+
+Region 135 has conductance 0.1918 and size 11150 
+	Seed set: conductance = 0.4897, size = 2337 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+Type 1 		 78		20.498		 0.3457 	 0.3714 	 0.8718 	 0.0061 	 0.0121  
+Type 2 		 1332		17.689		 0.3710 	 0.4450 	 0.8656 	 0.1034 	 0.1847  
+Type 3 		 2617		9.921		 0.4226 	 0.4805 	 0.8200 	 0.1925 	 0.3118  
+Type 4 		 2620		11.046		 0.4229 	 0.4806 	 0.8198 	 0.1926 	 0.312  
+
+Region 106 has conductance 0.136 and size 13884 
+	Seed set: conductance = 0.4759, size = 2366 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+Type 1 		 182		24.544		 0.2897 	 0.3482 	 1.0000 	 0.0131 	 0.0259  
+Type 2 		 2000		17.832		 0.2506 	 0.4281 	 0.9520 	 0.1371 	 0.2397  
+Type 3 		 3246		13.369		 0.3178 	 0.4584 	 0.9002 	 0.2105 	 0.3412  
+Type 4 		 3257		13.888		 0.3190 	 0.4587 	 0.8996 	 0.2110 	 0.3419  
+
+Region 198 has conductance 0.1365 and size 15058 
+	Seed set: conductance = 0.5034, size = 2311 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+Type 1 		 158		18.009		 0.2721 	 0.3818 	 0.9937 	 0.0104 	 0.0206  
+Type 2 		 1298		15.241		 0.3830 	 0.4612 	 0.9145 	 0.0788 	 0.1451  
+Type 3 		 2778		10.216		 0.3948 	 0.4901 	 0.8398 	 0.1549 	 0.2616  
+Type 4 		 2785		11.386		 0.3948 	 0.4902 	 0.8388 	 0.1551 	 0.2618  
+
+Region 182 has conductance 0.1431 and size 19939 
+	Seed set: conductance = 0.5002, size = 2392 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+Type 1 		 50		22.307		 0.3901 	 0.3901 	 1.0000 	 0.0025 	 0.005  
+Type 2 		 1100		14.04		 0.4453 	 0.4681 	 0.8645 	 0.0477 	 0.0904  
+Type 3 		 2494		9.965		 0.4727 	 0.4963 	 0.7807 	 0.0976 	 0.1736  
+Type 4 		 2498		7.59		 0.4730 	 0.4963 	 0.7806 	 0.0978 	 0.1738  
+
+Region 41 has conductance 0.1064 and size 21317 
+	Seed set: conductance = 0.4999, size = 2498 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+Type 1 		 118		21.882		 0.3998 	 0.4114 	 1.0000 	 0.0055 	 0.011  
+Type 2 		 1250		15.377		 0.4548 	 0.4774 	 0.9440 	 0.0554 	 0.1046  
+Type 3 		 2589		6.931		 0.4770 	 0.4971 	 0.8521 	 0.1035 	 0.1846  
+Type 4 		 2591		7.68		 0.4772 	 0.4972 	 0.8518 	 0.1035 	 0.1846  
+
+Region 143 has conductance 0.1183 and size 28771 
+	Seed set: conductance = 0.5165, size = 2473 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+Type 1 		 50		21.605		 0.4026 	 0.4026 	 0.8000 	 0.0014 	 0.0028  
+Type 2 		 1349		15.27		 0.4848 	 0.4975 	 0.8962 	 0.0420 	 0.0803  
+Type 3 		 2524		6.941		 0.5022 	 0.5139 	 0.8641 	 0.0758 	 0.1394  
+Type 4 		 2525		7.766		 0.5023 	 0.5139 	 0.8642 	 0.0758 	 0.1394  
+
+Region 39 has conductance 0.0774 and size 67353 
+	Seed set: conductance = 0.5249, size = 2562 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+Type 1 		 48		23.497		 0.4479 	 0.4479 	 1.0000 	 0.0007 	 0.0014  
+Type 2 		 1421		14.229		 0.5043 	 0.5107 	 0.9669 	 0.0204 	 0.04  
+Type 3 		 2582		6.601		 0.5198 	 0.5242 	 0.9338 	 0.0358 	 0.0689  
+Type 4 		 2583		6.722		 0.5199 	 0.5242 	 0.9334 	 0.0358 	 0.0689  
+
+Region 45 has conductance 0.0669 and size 258569 
+	Seed set: conductance = 0.5343, size = 2624 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+Type 1 		 45		24.455		 0.4544 	 0.4544 	 0.9778 	 0.0002 	 0.0003  
+Type 2 		 2025		10.664		 0.5290 	 0.5314 	 0.9190 	 0.0072 	 0.0143  
+Type 3 		 2631		6.777		 0.5322 	 0.5340 	 0.9061 	 0.0092 	 0.0183  
+Type 4 		 2631		7.643		 0.5322 	 0.5340 	 0.9061 	 0.0092 	 0.0183  

@@ -1,0 +1,546 @@
+
+Region 73 has conductance 0.157450 and size 3104 
+	Seed set:conductance = 0.371205, size = 1860 
+Tol	  Size	    Time	     Cond 	 precision 	   recall 	 F1-score 
+Test region is closest in size to a training region with 3225 nodes 
+Using tolerance = 0.000000 
+-7 	 4412 	 0.140649 	 0.145938 	 0.627607 	 0.892075 	 0.736828 
+
+Region 207 has conductance 0.238735 and size 3106 
+	Seed set:conductance = 0.407292, size = 1878 
+Tol	  Size	    Time	     Cond 	 precision 	   recall 	 F1-score 
+Test region is closest in size to a training region with 3225 nodes 
+Using tolerance = 0.000000 
+-7 	 4920 	 0.160301 	 0.197701 	 0.525203 	 0.831938 	 0.643907 
+
+Region 108 has conductance 0.205379 and size 3405 
+	Seed set:conductance = 0.408105, size = 2021 
+Tol	  Size	    Time	     Cond 	 precision 	   recall 	 F1-score 
+Test region is closest in size to a training region with 3501 nodes 
+Using tolerance = 0.000000 
+-7 	 5187 	 0.083375 	 0.187814 	 0.558126 	 0.850220 	 0.673883 
+
+Region 105 has conductance 0.173196 and size 3409 
+	Seed set:conductance = 0.366968, size = 2071 
+Tol	  Size	    Time	     Cond 	 precision 	   recall 	 F1-score 
+Test region is closest in size to a training region with 3501 nodes 
+Using tolerance = 0.000000 
+-7 	 4718 	 0.073842 	 0.147061 	 0.627596 	 0.868583 	 0.728682 
+
+Region 125 has conductance 0.198924 and size 3563 
+	Seed set:conductance = 0.374004, size = 2158 
+Tol	  Size	    Time	     Cond 	 precision 	   recall 	 F1-score 
+Test region is closest in size to a training region with 3501 nodes 
+Using tolerance = 0.000000 
+-7 	 4957 	 0.159051 	 0.160127 	 0.612265 	 0.851810 	 0.712441 
+
+Region 173 has conductance 0.167865 and size 3630 
+	Seed set:conductance = 0.369235, size = 2210 
+Tol	  Size	    Time	     Cond 	 precision 	   recall 	 F1-score 
+Test region is closest in size to a training region with 3501 nodes 
+Using tolerance = 0.000000 
+-7 	 4907 	 0.080515 	 0.167940 	 0.642144 	 0.868044 	 0.738198 
+
+Region 179 has conductance 0.182678 and size 3744 
+	Seed set:conductance = 0.391947, size = 2266 
+Tol	  Size	    Time	     Cond 	 precision 	   recall 	 F1-score 
+Test region is closest in size to a training region with 3965 nodes 
+Using tolerance = 0.000000 
+-7 	 5301 	 0.082611 	 0.183795 	 0.620638 	 0.878739 	 0.727474 
+
+Region 104 has conductance 0.195144 and size 3828 
+	Seed set:conductance = 0.368881, size = 2272 
+Tol	  Size	    Time	     Cond 	 precision 	   recall 	 F1-score 
+Test region is closest in size to a training region with 3965 nodes 
+Using tolerance = 0.000000 
+-7 	 5215 	 0.081269 	 0.170327 	 0.623394 	 0.849269 	 0.719009 
+
+Region 136 has conductance 0.213102 and size 3889 
+	Seed set:conductance = 0.381375, size = 2428 
+Tol	  Size	    Time	     Cond 	 precision 	   recall 	 F1-score 
+Test region is closest in size to a training region with 3965 nodes 
+Using tolerance = 0.000000 
+-7 	 5437 	 0.091744 	 0.193381 	 0.589479 	 0.824119 	 0.687326 
+
+Region 37 has conductance 0.131923 and size 3893 
+	Seed set:conductance = 0.339896, size = 2425 
+Tol	  Size	    Time	     Cond 	 precision 	   recall 	 F1-score 
+Test region is closest in size to a training region with 3965 nodes 
+Using tolerance = 0.000000 
+-7 	 4902 	 0.080477 	 0.167608 	 0.688698 	 0.867198 	 0.767709 
+
+Region 170 has conductance 0.241229 and size 3914 
+	Seed set:conductance = 0.396652, size = 2365 
+Tol	  Size	    Time	     Cond 	 precision 	   recall 	 F1-score 
+Test region is closest in size to a training region with 3965 nodes 
+Using tolerance = 0.000000 
+-7 	 5643 	 0.086540 	 0.195065 	 0.551834 	 0.795606 	 0.651669 
+
+Region 163 has conductance 0.203669 and size 3922 
+	Seed set:conductance = 0.381651, size = 2323 
+Tol	  Size	    Time	     Cond 	 precision 	   recall 	 F1-score 
+Test region is closest in size to a training region with 3965 nodes 
+Using tolerance = 0.000000 
+-7 	 5395 	 0.097552 	 0.184002 	 0.605746 	 0.833248 	 0.701513 
+
+Region 48 has conductance 0.151953 and size 3971 
+	Seed set:conductance = 0.357916, size = 2397 
+Tol	  Size	    Time	     Cond 	 precision 	   recall 	 F1-score 
+Test region is closest in size to a training region with 3965 nodes 
+Using tolerance = 0.000000 
+-7 	 5065 	 0.074084 	 0.153811 	 0.698124 	 0.890456 	 0.782647 
+
+Region 36 has conductance 0.118521 and size 4054 
+	Seed set:conductance = 0.353278, size = 2446 
+Tol	  Size	    Time	     Cond 	 precision 	   recall 	 F1-score 
+Test region is closest in size to a training region with 3965 nodes 
+Using tolerance = 0.000000 
+-7 	 4953 	 0.074498 	 0.150075 	 0.727236 	 0.888505 	 0.799822 
+
+Region 197 has conductance 0.206711 and size 4096 
+	Seed set:conductance = 0.383511, size = 2329 
+Tol	  Size	    Time	     Cond 	 precision 	   recall 	 F1-score 
+Test region is closest in size to a training region with 3965 nodes 
+Using tolerance = 0.000000 
+-7 	 5617 	 0.092663 	 0.188048 	 0.586434 	 0.804199 	 0.678266 
+
+Region 47 has conductance 0.139251 and size 4126 
+	Seed set:conductance = 0.363237, size = 2387 
+Tol	  Size	    Time	     Cond 	 precision 	   recall 	 F1-score 
+Test region is closest in size to a training region with 3965 nodes 
+Using tolerance = 0.000000 
+-7 	 5033 	 0.075607 	 0.163695 	 0.713690 	 0.870577 	 0.784365 
+
+Region 204 has conductance 0.181594 and size 4186 
+	Seed set:conductance = 0.370209, size = 2496 
+Tol	  Size	    Time	     Cond 	 precision 	   recall 	 F1-score 
+Test region is closest in size to a training region with 3965 nodes 
+Using tolerance = 0.000000 
+-7 	 5430 	 0.092428 	 0.175033 	 0.648435 	 0.841137 	 0.732321 
+
+Region 150 has conductance 0.189651 and size 4234 
+	Seed set:conductance = 0.384813, size = 2558 
+Tol	  Size	    Time	     Cond 	 precision 	   recall 	 F1-score 
+Test region is closest in size to a training region with 3965 nodes 
+Using tolerance = 0.000000 
+-7 	 5642 	 0.102286 	 0.178683 	 0.650479 	 0.866793 	 0.743216 
+
+Region 166 has conductance 0.200665 and size 4458 
+	Seed set:conductance = 0.362367, size = 2539 
+Tol	  Size	    Time	     Cond 	 precision 	   recall 	 F1-score 
+Test region is closest in size to a training region with 3965 nodes 
+Using tolerance = 0.000000 
+-7 	 5415 	 0.091923 	 0.195193 	 0.642290 	 0.780170 	 0.704548 
+
+Region 109 has conductance 0.191910 and size 4516 
+	Seed set:conductance = 0.401487, size = 2553 
+Tol	  Size	    Time	     Cond 	 precision 	   recall 	 F1-score 
+Test region is closest in size to a training region with 3965 nodes 
+Using tolerance = 0.000000 
+-7 	 5847 	 0.090670 	 0.200068 	 0.632119 	 0.818423 	 0.713307 
+
+Region 151 has conductance 0.185583 and size 4636 
+	Seed set:conductance = 0.393441, size = 2765 
+Tol	  Size	    Time	     Cond 	 precision 	   recall 	 F1-score 
+Test region is closest in size to a training region with 5105 nodes 
+Using tolerance = 0.000000 
+-7 	 5988 	 0.095105 	 0.178955 	 0.654476 	 0.845341 	 0.737764 
+
+Region 171 has conductance 0.225127 and size 4697 
+	Seed set:conductance = 0.388677, size = 2987 
+Tol	  Size	    Time	     Cond 	 precision 	   recall 	 F1-score 
+Test region is closest in size to a training region with 5105 nodes 
+Using tolerance = 0.000000 
+-7 	 6176 	 0.098570 	 0.207426 	 0.608323 	 0.799872 	 0.691070 
+
+Region 161 has conductance 0.237677 and size 4702 
+	Seed set:conductance = 0.387357, size = 2943 
+Tol	  Size	    Time	     Cond 	 precision 	   recall 	 F1-score 
+Test region is closest in size to a training region with 5105 nodes 
+Using tolerance = 0.000000 
+-7 	 6101 	 0.099514 	 0.209029 	 0.592854 	 0.769247 	 0.669629 
+
+Region 71 has conductance 0.150854 and size 5407 
+	Seed set:conductance = 0.348835, size = 3093 
+Tol	  Size	    Time	     Cond 	 precision 	   recall 	 F1-score 
+Test region is closest in size to a training region with 5109 nodes 
+Using tolerance = 0.000000 
+-7 	 5980 	 0.096824 	 0.148093 	 0.732943 	 0.810616 	 0.769825 
+
+Region 146 has conductance 0.198136 and size 5463 
+	Seed set:conductance = 0.381103, size = 3294 
+Tol	  Size	    Time	     Cond 	 precision 	   recall 	 F1-score 
+Test region is closest in size to a training region with 5109 nodes 
+Using tolerance = 0.000000 
+-7 	 6540 	 0.104394 	 0.200319 	 0.648318 	 0.776130 	 0.706490 
+
+Region 156 has conductance 0.205295 and size 5477 
+	Seed set:conductance = 0.397669, size = 3047 
+Tol	  Size	    Time	     Cond 	 precision 	   recall 	 F1-score 
+Test region is closest in size to a training region with 5832 nodes 
+Using tolerance = 0.000000 
+-7 	 6666 	 0.115326 	 0.187315 	 0.634413 	 0.772138 	 0.696533 
+
+Region 162 has conductance 0.183439 and size 5491 
+	Seed set:conductance = 0.364088, size = 3194 
+Tol	  Size	    Time	     Cond 	 precision 	   recall 	 F1-score 
+Test region is closest in size to a training region with 5832 nodes 
+Using tolerance = 0.000000 
+-7 	 6320 	 0.107365 	 0.205300 	 0.674367 	 0.776179 	 0.721700 
+
+Region 185 has conductance 0.192201 and size 5520 
+	Seed set:conductance = 0.393523, size = 3220 
+Tol	  Size	    Time	     Cond 	 precision 	   recall 	 F1-score 
+Test region is closest in size to a training region with 5832 nodes 
+Using tolerance = 0.000000 
+-7 	 6478 	 0.104694 	 0.211431 	 0.635381 	 0.745652 	 0.686114 
+
+Region 147 has conductance 0.194520 and size 5677 
+	Seed set:conductance = 0.366594, size = 3507 
+Tol	  Size	    Time	     Cond 	 precision 	   recall 	 F1-score 
+Test region is closest in size to a training region with 5832 nodes 
+Using tolerance = 0.000000 
+-7 	 6436 	 0.107216 	 0.191980 	 0.678838 	 0.769597 	 0.721374 
+
+Region 51 has conductance 0.089852 and size 5697 
+	Seed set:conductance = 0.368435, size = 2573 
+Tol	  Size	    Time	     Cond 	 precision 	   recall 	 F1-score 
+Test region is closest in size to a training region with 5832 nodes 
+Using tolerance = 0.000000 
+-7 	 5968 	 0.111669 	 0.164235 	 0.790885 	 0.828506 	 0.809258 
+
+Region 102 has conductance 0.168304 and size 5766 
+	Seed set:conductance = 0.370826, size = 3449 
+Tol	  Size	    Time	     Cond 	 precision 	   recall 	 F1-score 
+Test region is closest in size to a training region with 5832 nodes 
+Using tolerance = 0.000000 
+-7 	 6084 	 0.108047 	 0.187719 	 0.722387 	 0.762227 	 0.741772 
+
+Region 103 has conductance 0.140331 and size 5768 
+	Seed set:conductance = 0.346295, size = 3378 
+Tol	  Size	    Time	     Cond 	 precision 	   recall 	 F1-score 
+Test region is closest in size to a training region with 5832 nodes 
+Using tolerance = 0.000000 
+-7 	 5929 	 0.195945 	 0.183587 	 0.761343 	 0.782594 	 0.771822 
+
+Region 138 has conductance 0.174097 and size 5772 
+	Seed set:conductance = 0.380374, size = 3430 
+Tol	  Size	    Time	     Cond 	 precision 	   recall 	 F1-score 
+Test region is closest in size to a training region with 5832 nodes 
+Using tolerance = 0.000000 
+-7 	 6531 	 0.104871 	 0.197633 	 0.713367 	 0.807173 	 0.757376 
+
+Region 100 has conductance 0.173440 and size 5939 
+	Seed set:conductance = 0.371327, size = 3527 
+Tol	  Size	    Time	     Cond 	 precision 	   recall 	 F1-score 
+Test region is closest in size to a training region with 5832 nodes 
+Using tolerance = 0.000000 
+-7 	 6395 	 0.100013 	 0.205289 	 0.725723 	 0.781445 	 0.752554 
+
+Region 62 has conductance 0.124330 and size 5980 
+	Seed set:conductance = 0.329078, size = 3269 
+Tol	  Size	    Time	     Cond 	 precision 	   recall 	 F1-score 
+Test region is closest in size to a training region with 5832 nodes 
+Using tolerance = 0.000000 
+-7 	 5440 	 0.084821 	 0.165061 	 0.816360 	 0.742642 	 0.777758 
+
+Region 167 has conductance 0.182706 and size 6018 
+	Seed set:conductance = 0.375719, size = 3694 
+Tol	  Size	    Time	     Cond 	 precision 	   recall 	 F1-score 
+Test region is closest in size to a training region with 5832 nodes 
+Using tolerance = 0.000000 
+-7 	 6548 	 0.111026 	 0.209213 	 0.700977 	 0.762712 	 0.730543 
+
+Region 61 has conductance 0.118813 and size 6057 
+	Seed set:conductance = 0.336738, size = 3536 
+Tol	  Size	    Time	     Cond 	 precision 	   recall 	 F1-score 
+Test region is closest in size to a training region with 5832 nodes 
+Using tolerance = 0.000000 
+-7 	 5711 	 0.089317 	 0.147328 	 0.835055 	 0.787353 	 0.810503 
+
+Region 129 has conductance 0.169499 and size 6303 
+	Seed set:conductance = 0.370309, size = 3771 
+Tol	  Size	    Time	     Cond 	 precision 	   recall 	 F1-score 
+Test region is closest in size to a training region with 5832 nodes 
+Using tolerance = 0.000000 
+-7 	 6848 	 0.112294 	 0.198708 	 0.708236 	 0.769475 	 0.737586 
+
+Region 144 has conductance 0.164750 and size 6399 
+	Seed set:conductance = 0.362899, size = 3742 
+Tol	  Size	    Time	     Cond 	 precision 	   recall 	 F1-score 
+Test region is closest in size to a training region with 5832 nodes 
+Using tolerance = 0.000000 
+-7 	 6831 	 0.117337 	 0.197739 	 0.730493 	 0.779809 	 0.754346 
+
+Region 113 has conductance 0.186145 and size 6634 
+	Seed set:conductance = 0.378522, size = 3997 
+Tol	  Size	    Time	     Cond 	 precision 	   recall 	 F1-score 
+Test region is closest in size to a training region with 5832 nodes 
+Using tolerance = 0.000000 
+-7 	 6828 	 0.100053 	 0.223997 	 0.702548 	 0.723093 	 0.712673 
+
+Region 201 has conductance 0.222871 and size 6683 
+	Seed set:conductance = 0.387374, size = 4052 
+Tol	  Size	    Time	     Cond 	 precision 	   recall 	 F1-score 
+Test region is closest in size to a training region with 5832 nodes 
+Using tolerance = 0.000000 
+-7 	 6899 	 0.103043 	 0.243221 	 0.656472 	 0.677690 	 0.666912 
+
+Region 115 has conductance 0.204892 and size 6943 
+	Seed set:conductance = 0.389277, size = 4089 
+Tol	  Size	    Time	     Cond 	 precision 	   recall 	 F1-score 
+Test region is closest in size to a training region with 7707 nodes 
+Using tolerance = 0.000000 
+-7 	 7242 	 0.110528 	 0.229126 	 0.695388 	 0.725335 	 0.710046 
+
+Region 112 has conductance 0.172953 and size 7420 
+	Seed set:conductance = 0.377253, size = 4530 
+Tol	  Size	    Time	     Cond 	 precision 	   recall 	 F1-score 
+Test region is closest in size to a training region with 7707 nodes 
+Using tolerance = 0.000000 
+-7 	 7099 	 0.105871 	 0.225347 	 0.751514 	 0.719003 	 0.734899 
+
+Region 139 has conductance 0.145142 and size 7502 
+	Seed set:conductance = 0.360292, size = 4413 
+Tol	  Size	    Time	     Cond 	 precision 	   recall 	 F1-score 
+Test region is closest in size to a training region with 7707 nodes 
+Using tolerance = 0.000000 
+-7 	 6910 	 0.109950 	 0.203384 	 0.790014 	 0.727673 	 0.757563 
+
+Region 153 has conductance 0.159231 and size 7839 
+	Seed set:conductance = 0.360312, size = 4748 
+Tol	  Size	    Time	     Cond 	 precision 	   recall 	 F1-score 
+Test region is closest in size to a training region with 7707 nodes 
+Using tolerance = 0.000000 
+-7 	 6957 	 0.108672 	 0.228058 	 0.775334 	 0.688098 	 0.729116 
+
+Region 101 has conductance 0.132357 and size 7913 
+	Seed set:conductance = 0.346250, size = 4629 
+Tol	  Size	    Time	     Cond 	 precision 	   recall 	 F1-score 
+Test region is closest in size to a training region with 7707 nodes 
+Using tolerance = 0.000000 
+-7 	 6801 	 0.108701 	 0.206615 	 0.814733 	 0.700240 	 0.753160 
+
+Region 205 has conductance 0.153638 and size 8057 
+	Seed set:conductance = 0.360026, size = 4798 
+Tol	  Size	    Time	     Cond 	 precision 	   recall 	 F1-score 
+Test region is closest in size to a training region with 7707 nodes 
+Using tolerance = 0.000000 
+-7 	 7287 	 0.105835 	 0.227330 	 0.765884 	 0.692690 	 0.727450 
+
+Region 128 has conductance 0.182937 and size 8465 
+	Seed set:conductance = 0.377505, size = 4895 
+Tol	  Size	    Time	     Cond 	 precision 	   recall 	 F1-score 
+Test region is closest in size to a training region with 8547 nodes 
+Using tolerance = 0.000000 
+-7 	 7308 	 0.106031 	 0.242023 	 0.746032 	 0.644064 	 0.691308 
+
+Region 59 has conductance 0.088416 and size 8775 
+	Seed set:conductance = 0.322183, size = 5212 
+Tol	  Size	    Time	     Cond 	 precision 	   recall 	 F1-score 
+Test region is closest in size to a training region with 8547 nodes 
+Using tolerance = 0.000000 
+-7 	 6385 	 0.098094 	 0.210842 	 0.896946 	 0.652650 	 0.755541 
+
+Region 192 has conductance 0.150722 and size 8928 
+	Seed set:conductance = 0.363785, size = 5338 
+Tol	  Size	    Time	     Cond 	 precision 	   recall 	 F1-score 
+Test region is closest in size to a training region with 8547 nodes 
+Using tolerance = 0.000000 
+-7 	 7271 	 0.113645 	 0.242419 	 0.801678 	 0.652890 	 0.719674 
+
+Region 122 has conductance 0.189623 and size 8989 
+	Seed set:conductance = 0.368037, size = 5514 
+Tol	  Size	    Time	     Cond 	 precision 	   recall 	 F1-score 
+Test region is closest in size to a training region with 8547 nodes 
+Using tolerance = 0.000000 
+-7 	 7174 	 0.162178 	 0.262815 	 0.758015 	 0.604962 	 0.672895 
+
+Region 107 has conductance 0.139136 and size 9356 
+	Seed set:conductance = 0.354064, size = 5286 
+Tol	  Size	    Time	     Cond 	 precision 	   recall 	 F1-score 
+Test region is closest in size to a training region with 9493 nodes 
+Using tolerance = 0.000000 
+-7 	 7562 	 0.201994 	 0.221196 	 0.808252 	 0.653271 	 0.722544 
+
+Region 60 has conductance 0.092068 and size 9611 
+	Seed set:conductance = 0.326062, size = 5496 
+Tol	  Size	    Time	     Cond 	 precision 	   recall 	 F1-score 
+Test region is closest in size to a training region with 9493 nodes 
+Using tolerance = 0.000000 
+-7 	 6450 	 0.194207 	 0.234225 	 0.905891 	 0.607949 	 0.727601 
+
+Region 152 has conductance 0.153010 and size 10274 
+	Seed set:conductance = 0.362516, size = 6106 
+Tol	  Size	    Time	     Cond 	 precision 	   recall 	 F1-score 
+Test region is closest in size to a training region with 9493 nodes 
+Using tolerance = 0.000000 
+-7 	 7526 	 0.115264 	 0.277814 	 0.797901 	 0.584485 	 0.674719 
+
+Region 203 has conductance 0.131876 and size 11040 
+	Seed set:conductance = 0.342743, size = 6673 
+Tol	  Size	    Time	     Cond 	 precision 	   recall 	 F1-score 
+Test region is closest in size to a training region with 11150 nodes 
+Using tolerance = 0.000000 
+-8 	 18529 	 0.318980 	 0.090643 	 0.585353 	 0.982428 	 0.733606 
+
+Region 134 has conductance 0.197006 and size 11340 
+	Seed set:conductance = 0.384893, size = 6554 
+Tol	  Size	    Time	     Cond 	 precision 	   recall 	 F1-score 
+Test region is closest in size to a training region with 11150 nodes 
+Using tolerance = 0.000000 
+-8 	 21674 	 0.367316 	 0.110516 	 0.504199 	 0.963668 	 0.662022 
+
+Region 202 has conductance 0.119177 and size 11760 
+	Seed set:conductance = 0.341170, size = 7001 
+Tol	  Size	    Time	     Cond 	 precision 	   recall 	 F1-score 
+Test region is closest in size to a training region with 11150 nodes 
+Using tolerance = 0.000000 
+-8 	 19216 	 0.319410 	 0.086482 	 0.600905 	 0.981888 	 0.745545 
+
+Region 195 has conductance 0.153347 and size 12154 
+	Seed set:conductance = 0.360109, size = 7191 
+Tol	  Size	    Time	     Cond 	 precision 	   recall 	 F1-score 
+Test region is closest in size to a training region with 11150 nodes 
+Using tolerance = 0.000000 
+-8 	 21626 	 0.562774 	 0.105997 	 0.547443 	 0.974083 	 0.700947 
+
+Region 145 has conductance 0.133693 and size 12694 
+	Seed set:conductance = 0.359498, size = 7258 
+Tol	  Size	    Time	     Cond 	 precision 	   recall 	 F1-score 
+Test region is closest in size to a training region with 13884 nodes 
+Using tolerance = 0.000000 
+-8 	 21494 	 0.492257 	 0.101153 	 0.576580 	 0.976288 	 0.724991 
+
+Region 123 has conductance 0.154611 and size 13657 
+	Seed set:conductance = 0.356515, size = 8073 
+Tol	  Size	    Time	     Cond 	 precision 	   recall 	 F1-score 
+Test region is closest in size to a training region with 13884 nodes 
+Using tolerance = 0.000000 
+-8 	 23011 	 0.414029 	 0.109541 	 0.570684 	 0.961558 	 0.716265 
+
+Region 169 has conductance 0.148635 and size 13692 
+	Seed set:conductance = 0.360782, size = 7916 
+Tol	  Size	    Time	     Cond 	 precision 	   recall 	 F1-score 
+Test region is closest in size to a training region with 13884 nodes 
+Using tolerance = 0.000000 
+-8 	 23307 	 0.430065 	 0.109998 	 0.561677 	 0.956106 	 0.707641 
+
+Region 194 has conductance 0.151938 and size 14337 
+	Seed set:conductance = 0.358481, size = 8406 
+Tol	  Size	    Time	     Cond 	 precision 	   recall 	 F1-score 
+Test region is closest in size to a training region with 13884 nodes 
+Using tolerance = 0.000000 
+-8 	 24378 	 0.440422 	 0.109177 	 0.564813 	 0.960382 	 0.711301 
+
+Region 168 has conductance 0.150392 and size 14454 
+	Seed set:conductance = 0.354126, size = 8311 
+Tol	  Size	    Time	     Cond 	 precision 	   recall 	 F1-score 
+Test region is closest in size to a training region with 13884 nodes 
+Using tolerance = 0.000000 
+-8 	 24004 	 0.441624 	 0.113267 	 0.582778 	 0.967829 	 0.727495 
+
+Region 133 has conductance 0.139210 and size 14610 
+	Seed set:conductance = 0.358389, size = 8691 
+Tol	  Size	    Time	     Cond 	 precision 	   recall 	 F1-score 
+Test region is closest in size to a training region with 15058 nodes 
+Using tolerance = 0.000000 
+-8 	 24446 	 0.452379 	 0.104624 	 0.574000 	 0.960438 	 0.718558 
+
+Region 176 has conductance 0.187721 and size 15367 
+	Seed set:conductance = 0.388769, size = 8739 
+Tol	  Size	    Time	     Cond 	 precision 	   recall 	 F1-score 
+Test region is closest in size to a training region with 15058 nodes 
+Using tolerance = 0.000000 
+-8 	 26638 	 0.486002 	 0.116028 	 0.547864 	 0.949697 	 0.694870 
+
+Region 177 has conductance 0.175327 and size 16088 
+	Seed set:conductance = 0.374806, size = 9108 
+Tol	  Size	    Time	     Cond 	 precision 	   recall 	 F1-score 
+Test region is closest in size to a training region with 15058 nodes 
+Using tolerance = 0.000000 
+-8 	 26825 	 0.448200 	 0.112570 	 0.563318 	 0.939272 	 0.704262 
+
+Region 132 has conductance 0.139222 and size 17152 
+	Seed set:conductance = 0.353339, size = 9943 
+Tol	  Size	    Time	     Cond 	 precision 	   recall 	 F1-score 
+Test region is closest in size to a training region with 15058 nodes 
+Using tolerance = 0.000000 
+-8 	 26796 	 0.490632 	 0.109528 	 0.611211 	 0.954874 	 0.745335 
+
+Region 199 has conductance 0.124015 and size 17444 
+	Seed set:conductance = 0.356706, size = 9735 
+Tol	  Size	    Time	     Cond 	 precision 	   recall 	 F1-score 
+Test region is closest in size to a training region with 15058 nodes 
+Using tolerance = 0.000000 
+-8 	 26391 	 0.474484 	 0.104624 	 0.635558 	 0.961534 	 0.765279 
+
+Region 183 has conductance 0.150431 and size 17577 
+	Seed set:conductance = 0.360063, size = 10189 
+Tol	  Size	    Time	     Cond 	 precision 	   recall 	 F1-score 
+Test region is closest in size to a training region with 19939 nodes 
+Using tolerance = 0.000000 
+-8 	 27794 	 0.483918 	 0.119708 	 0.601317 	 0.950845 	 0.736726 
+
+Region 191 has conductance 0.142294 and size 17587 
+	Seed set:conductance = 0.363431, size = 10244 
+Tol	  Size	    Time	     Cond 	 precision 	   recall 	 F1-score 
+Test region is closest in size to a training region with 19939 nodes 
+Using tolerance = 0.000000 
+-8 	 28369 	 0.539699 	 0.125049 	 0.589834 	 0.951441 	 0.728218 
+
+Region 190 has conductance 0.135531 and size 17981 
+	Seed set:conductance = 0.352180, size = 10358 
+Tol	  Size	    Time	     Cond 	 precision 	   recall 	 F1-score 
+Test region is closest in size to a training region with 19939 nodes 
+Using tolerance = 0.000000 
+-8 	 27833 	 0.537962 	 0.118563 	 0.619085 	 0.958289 	 0.752215 
+
+Region 154 has conductance 0.142245 and size 18763 
+	Seed set:conductance = 0.354275, size = 11027 
+Tol	  Size	    Time	     Cond 	 precision 	   recall 	 F1-score 
+Test region is closest in size to a training region with 19939 nodes 
+Using tolerance = 0.000000 
+-8 	 29245 	 0.554096 	 0.116821 	 0.600923 	 0.936631 	 0.732128 
+
+Region 155 has conductance 0.135809 and size 21206 
+	Seed set:conductance = 0.354472, size = 12442 
+Tol	  Size	    Time	     Cond 	 precision 	   recall 	 F1-score 
+Test region is closest in size to a training region with 21317 nodes 
+Using tolerance = 0.000000 
+-8 	 31680 	 0.589733 	 0.117119 	 0.629198 	 0.939970 	 0.753810 
+
+Region 40 has conductance 0.109694 and size 21489 
+	Seed set:conductance = 0.335156, size = 12544 
+Tol	  Size	    Time	     Cond 	 precision 	   recall 	 F1-score 
+Test region is closest in size to a training region with 21317 nodes 
+Using tolerance = 0.000000 
+-8 	 29486 	 0.672059 	 0.122162 	 0.659940 	 0.905533 	 0.763472 
+
+Region 35 has conductance 0.046243 and size 22457 
+	Seed set:conductance = 0.306970, size = 12323 
+Tol	  Size	    Time	     Cond 	 precision 	   recall 	 F1-score 
+Test region is closest in size to a training region with 21317 nodes 
+Using tolerance = 0.000000 
+-8 	 25796 	 0.785558 	 0.058399 	 0.845209 	 0.970878 	 0.903695 
+
+Region 142 has conductance 0.120808 and size 23521 
+	Seed set:conductance = 0.349757, size = 13514 
+Tol	  Size	    Time	     Cond 	 precision 	   recall 	 F1-score 
+Test region is closest in size to a training region with 21317 nodes 
+Using tolerance = 0.000000 
+-8 	 33387 	 0.787120 	 0.119648 	 0.655315 	 0.930190 	 0.768925 
+
+Region 38 has conductance 0.077424 and size 67809 
+	Seed set:conductance = 0.319337, size = 38206 
+Tol	  Size	    Time	     Cond 	 precision 	   recall 	 F1-score 
+Test region is closest in size to a training region with 67353 nodes 
+Using tolerance = 0.000000 
+-8 	 64573 	 1.178537 	 0.122870 	 0.864278 	 0.823032 	 0.843151 
+
+Region 44 has conductance 0.064912 and size 259100 
+	Seed set:conductance = 0.320227, size = 149885 
+Tol	  Size	    Time	     Cond 	 precision 	   recall 	 F1-score 
+Test region is closest in size to a training region with 258569 nodes 
+Using tolerance = 0.000000 
+-9 	 322113 	 7.793516 	 0.103075 	 0.754481 	 0.937970 	 0.836279 

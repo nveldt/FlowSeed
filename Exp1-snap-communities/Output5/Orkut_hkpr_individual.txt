@@ -1,0 +1,60 @@
+
+Community 1 has 3062 nodes and a conductance of 0.631065 
+Seed set: conductance = 0.984909, size = 153, pr = 1.000000, re = 0.049967, f1 = 0.095179 
+Tol	  Size	    Time	     Cond 	 precision 	   recall 	 F1-score 
+PR: 	 280 	 4.270600 	 0.544194 	 0.010714 	 0.000980 	 0.001795 
+HK: 	 75 	 6.915475 	 0.445440 	 0.013333 	 0.000327 	 0.000638 
+
+Community 2 has 3145 nodes and a conductance of 0.764275 
+Seed set: conductance = 0.989315, size = 157, pr = 1.000000, re = 0.049921, f1 = 0.095094 
+Tol	  Size	    Time	     Cond 	 precision 	   recall 	 F1-score 
+PR: 	 196 	 4.350621 	 0.435085 	 0.193878 	 0.012083 	 0.022748 
+HK: 	 4 	 6.785032 	 0.375000 	 0.000000 	 0.000000 	 NaN 
+
+Community 3 has 3249 nodes and a conductance of 0.712171 
+Seed set: conductance = 0.983291, size = 162, pr = 1.000000, re = 0.049861, f1 = 0.094987 
+Tol	  Size	    Time	     Cond 	 precision 	   recall 	 F1-score 
+PR: 	 395 	 4.593584 	 0.310608 	 0.053165 	 0.006464 	 0.011526 
+HK: 	 336 	 6.678770 	 0.252539 	 0.029762 	 0.003078 	 0.005579 
+
+Community 4 has 3433 nodes and a conductance of 0.693887 
+Seed set: conductance = 0.982794, size = 172, pr = 1.000000, re = 0.050102, f1 = 0.095423 
+Tol	  Size	    Time	     Cond 	 precision 	   recall 	 F1-score 
+PR: 	 79 	 5.611658 	 0.611664 	 0.025316 	 0.000583 	 0.001139 
+HK: 	 8 	 9.035271 	 0.296296 	 0.000000 	 0.000000 	 NaN 
+
+Community 5 has 3464 nodes and a conductance of 0.646730 
+Seed set: conductance = 0.986985, size = 173, pr = 1.000000, re = 0.049942, f1 = 0.095133 
+Tol	  Size	    Time	     Cond 	 precision 	   recall 	 F1-score 
+PR: 	 11 	 5.915802 	 0.214286 	 0.090909 	 0.000289 	 0.000576 
+HK: 	 10 	 8.004138 	 0.166667 	 0.000000 	 0.000000 	 NaN 
+
+Community 6 has 4174 nodes and a conductance of 0.644024 
+Seed set: conductance = 0.981214, size = 209, pr = 1.000000, re = 0.050072, f1 = 0.095368 
+Tol	  Size	    Time	     Cond 	 precision 	   recall 	 F1-score 
+PR: 	 481 	 5.999257 	 0.467383 	 0.008316 	 0.000958 	 0.001719 
+HK: 	 17 	 9.205527 	 0.154930 	 0.000000 	 0.000000 	 NaN 
+
+Community 7 has 4249 nodes and a conductance of 0.624569 
+Seed set: conductance = 0.978290, size = 212, pr = 1.000000, re = 0.049894, f1 = 0.095046 
+Tol	  Size	    Time	     Cond 	 precision 	   recall 	 F1-score 
+PR: 	 335 	 6.076600 	 0.465650 	 0.029851 	 0.002353 	 0.004363 
+HK: 	 3 	 9.332215 	 0.200000 	 0.000000 	 0.000000 	 NaN 
+
+Community 8 has 4575 nodes and a conductance of 0.589739 
+Seed set: conductance = 0.981123, size = 229, pr = 1.000000, re = 0.050055, f1 = 0.095337 
+Tol	  Size	    Time	     Cond 	 precision 	   recall 	 F1-score 
+PR: 	 75 	 7.239007 	 0.395699 	 0.093333 	 0.001530 	 0.003011 
+HK: 	 3 	 10.751756 	 0.333333 	 0.000000 	 0.000000 	 NaN 
+
+Community 9 has 4632 nodes and a conductance of 0.586386 
+Seed set: conductance = 0.976888, size = 232, pr = 1.000000, re = 0.050086, f1 = 0.095395 
+Tol	  Size	    Time	     Cond 	 precision 	   recall 	 F1-score 
+PR: 	 504 	 7.998370 	 0.588499 	 0.051587 	 0.005613 	 0.010125 
+HK: 	 3 	 11.095028 	 0.333333 	 0.000000 	 0.000000 	 NaN 
+
+Community 10 has 4785 nodes and a conductance of 0.619346 
+Seed set: conductance = 0.977869, size = 239, pr = 1.000000, re = 0.049948, f1 = 0.095143 
+Tol	  Size	    Time	     Cond 	 precision 	   recall 	 F1-score 
+PR: 	 289 	 8.571979 	 0.605484 	 0.069204 	 0.004180 	 0.007883 
+HK: 	 2 	 12.953402 	 0.333333 	 0.000000 	 0.000000 	 NaN 

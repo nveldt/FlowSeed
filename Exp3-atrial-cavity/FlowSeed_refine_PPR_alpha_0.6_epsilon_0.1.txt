@@ -1,0 +1,22 @@
+Running SEPCI on the ppr output.
+
+PPR tolerance Number 1 in [1e-9, 1e-10, 1e-11]
+PPR output: 72337 nodes, PR = 0.849, RE = 0.243, F1 = 0.378 
+Seed set: 72337 nodes, PR = 0.849, RE = 0.243, F1 = 0.378 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+Type 1 	 	114681		1480.691	 0.0454 	 0.1177 	 0.9495 	 0.4315 	 0.5933 
+Type 2 	 	160951		1410.482	 0.0492 	 0.1288 	 0.9244 	 0.5896 	 0.7199 
+
+PPR tolerance Number 2 in [1e-9, 1e-10, 1e-11]
+PPR output: 133618 nodes, PR = 0.792, RE = 0.419, F1 = 0.549 
+Seed set: 133618 nodes, PR = 0.792, RE = 0.419, F1 = 0.549 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+Type 1 	 	184661		4226.889	 0.0333 	 0.0652 	 0.9088 	 0.6650 	 0.768 
+Type 2 	 	224842		3572.734	 0.0349 	 0.0726 	 0.8498 	 0.7571 	 0.8008 
+
+PPR tolerance Number 3 in [1e-9, 1e-10, 1e-11]
+PPR output: 211571 nodes, PR = 0.732, RE = 0.614, F1 = 0.668 
+Seed set: 211571 nodes, PR = 0.732, RE = 0.614, F1 = 0.668 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+Type 1 	 	255031		12274.094	 0.0248 	 0.0422 	 0.7371 	 0.7448 	 0.7409 
+Type 2 	 	296192		9799.689	 0.025 	 	 0.048 	 	0.6896 	 	0.8094 		 0.7447 

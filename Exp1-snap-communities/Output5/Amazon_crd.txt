@@ -1,0 +1,41 @@
+CRD. We assume we know 5 percent of the target cluster.
+
+Community 1 has 133 nodes and a conductance of 0.029 
+Seed Set: |R| = 52, condR = 0.2099, PR = 0.9615, RE = 0.3759, F1 = 0.5405 
+CRD Stand: 	PR = 0.969 	 RE = 0.474 	 F1 = 0.636 	 Size = 65 	 Cond = 0.1362 	 Time = 2.262027373
+
+Community 2 has 138 nodes and a conductance of 0.036 
+Seed Set: |R| = 56, condR = 0.3358, PR = 0.8929, RE = 0.3623, F1 = 0.5155 
+CRD Stand: 	PR = 0.911 	 RE = 0.522 	 F1 = 0.664 	 Size = 79 	 Cond = 0.2 	 Time = 0.789576824
+
+Community 3 has 139 nodes and a conductance of 0.036 
+Seed Set: |R| = 61, condR = 0.3907, PR = 0.9508, RE = 0.4173, F1 = 0.58 
+CRD Stand: 	PR = 0.962 	 RE = 0.54 	 F1 = 0.691 	 Size = 78 	 Cond = 0.165 	 Time = 1.453579144
+
+Community 4 has 140 nodes and a conductance of 0.041 
+Seed Set: |R| = 59, condR = 0.1852, PR = 0.9661, RE = 0.4071, F1 = 0.5729 
+CRD Stand: 	PR = 0.968 	 RE = 0.429 	 F1 = 0.594 	 Size = 62 	 Cond = 0.1244 	 Time = 1.096964488
+
+Community 5 has 143 nodes and a conductance of 0.025 
+Seed Set: |R| = 35, condR = 0.5048, PR = 1.0, RE = 0.2448, F1 = 0.3933 
+CRD Stand: 	PR = 0.981 	 RE = 0.364 	 F1 = 0.531 	 Size = 53 	 Cond = 0.3249 	 Time = 2.324832549
+
+Community 6 has 152 nodes and a conductance of 0.032 
+Seed Set: |R| = 33, condR = 0.6871, PR = 0.9697, RE = 0.2105, F1 = 0.3459 
+CRD Stand: 	PR = 0.833 	 RE = 0.033 	 F1 = 0.063 	 Size = 6 	 Cond = 0.4 	 Time = 1.701588343
+
+Community 7 has 154 nodes and a conductance of 0.013 
+Seed Set: |R| = 41, condR = 0.3746, PR = 1.0, RE = 0.2662, F1 = 0.4205 
+CRD Stand: 	PR = 1.0 	 RE = 0.396 	 F1 = 0.567 	 Size = 61 	 Cond = 0.1175 	 Time = 1.39726907
+
+Community 8 has 264 nodes and a conductance of 0.024 
+Seed Set: |R| = 79, condR = 0.4324, PR = 0.9873, RE = 0.2955, F1 = 0.4548 
+CRD Stand: 	PR = 0.978 	 RE = 0.341 	 F1 = 0.506 	 Size = 92 	 Cond = 0.1607 	 Time = 1.494669329
+
+Community 9 has 312 nodes and a conductance of 0.022 
+Seed Set: |R| = 82, condR = 0.4319, PR = 1.0, RE = 0.2628, F1 = 0.4162 
+CRD Stand: 	PR = 1.0 	 RE = 0.279 	 F1 = 0.436 	 Size = 87 	 Cond = 0.2389 	 Time = 1.944423753
+
+Community 10 has 328 nodes and a conductance of 0.032 
+Seed Set: |R| = 81, condR = 0.3996, PR = 0.9877, RE = 0.2439, F1 = 0.3912 
+CRD Stand: 	PR = 0.975 	 RE = 0.36 	 F1 = 0.526 	 Size = 121 	 Cond = 0.2171 	 Time = 1.8217779

@@ -1,0 +1,64 @@
+Flowseed and SimpleLocal. Strict penalties on excluding starter nodes
+         (which are known to be in the target cluster) and soft penalties of 1 on excluding immediate neighbors.
+         We assume we know 5 percent of the target cluster,
+         and we set epsilon to 0.1.
+
+Community 1 has 133 nodes and a conductance of 0.029 
+Seed Set: |R| = 52, condR = 0.2099, PR = 0.9615, RE = 0.3759, F1 = 0.5405 
+SimpleLoc: 	PR = 0.957  	 RE = 1.0  	 F1 = 0.978  	 Size = 139    	 Cond = 0.0043 	 Time = 0.063817576 
+FS SimLoc: 	PR = 0.957 	 RE = 1.0 	 F1 = 0.978 	 Size = 139 	 Cond = 0.0043 	 Time = 0.233208515 
+Flow-Seed: 	PR = 0.957 	 RE = 1.0 	 F1 = 0.978 	 Size = 139 	 Cond = 0.0131 	 Time = 0.326192479 
+
+Community 2 has 138 nodes and a conductance of 0.036 
+Seed Set: |R| = 56, condR = 0.3358, PR = 0.8929, RE = 0.3623, F1 = 0.5155 
+SimpleLoc: 	PR = 0.934  	 RE = 0.826  	 F1 = 0.877  	 Size = 122    	 Cond = 0.0204 	 Time = 0.068226705 
+FS SimLoc: 	PR = 0.934 	 RE = 0.826 	 F1 = 0.877 	 Size = 122 	 Cond = 0.0204 	 Time = 0.253756583 
+Flow-Seed: 	PR = 0.877 	 RE = 0.826 	 F1 = 0.851 	 Size = 130 	 Cond = 0.0363 	 Time = 0.357056473 
+
+Community 3 has 139 nodes and a conductance of 0.036 
+Seed Set: |R| = 61, condR = 0.3907, PR = 0.9508, RE = 0.4173, F1 = 0.58 
+SimpleLoc: 	PR = 0.946  	 RE = 1.0  	 F1 = 0.972  	 Size = 147    	 Cond = 0.0169 	 Time = 0.103387206 
+FS SimLoc: 	PR = 0.946 	 RE = 1.0 	 F1 = 0.972 	 Size = 147 	 Cond = 0.0169 	 Time = 0.157710219 
+Flow-Seed: 	PR = 0.897 	 RE = 1.0 	 F1 = 0.946 	 Size = 155 	 Cond = 0.0288 	 Time = 0.352098568 
+
+Community 4 has 140 nodes and a conductance of 0.041 
+Seed Set: |R| = 59, condR = 0.1852, PR = 0.9661, RE = 0.4071, F1 = 0.5729 
+SimpleLoc: 	PR = 0.939  	 RE = 0.886  	 F1 = 0.912  	 Size = 132    	 Cond = 0.0054 	 Time = 0.048329912 
+FS SimLoc: 	PR = 0.939 	 RE = 0.886 	 F1 = 0.912 	 Size = 132 	 Cond = 0.0054 	 Time = 0.150260495 
+Flow-Seed: 	PR = 0.933 	 RE = 1.0 	 F1 = 0.966 	 Size = 150 	 Cond = 0.0107 	 Time = 0.406234106 
+
+Community 5 has 143 nodes and a conductance of 0.025 
+Seed Set: |R| = 35, condR = 0.5048, PR = 1.0, RE = 0.2448, F1 = 0.3933 
+SimpleLoc: 	PR = 0.959  	 RE = 0.993  	 F1 = 0.976  	 Size = 148    	 Cond = 0.0038 	 Time = 0.047102587 
+FS SimLoc: 	PR = 0.959 	 RE = 0.993 	 F1 = 0.976 	 Size = 148 	 Cond = 0.0038 	 Time = 0.130336892 
+Flow-Seed: 	PR = 0.959 	 RE = 0.993 	 F1 = 0.976 	 Size = 148 	 Cond = 0.0165 	 Time = 0.197070806 
+
+Community 6 has 152 nodes and a conductance of 0.032 
+Seed Set: |R| = 33, condR = 0.6871, PR = 0.9697, RE = 0.2105, F1 = 0.3459 
+SimpleLoc: 	PR = 0.968  	 RE = 1.0  	 F1 = 0.984  	 Size = 157    	 Cond = 0.0035 	 Time = 0.051063012 
+FS SimLoc: 	PR = 0.968 	 RE = 1.0 	 F1 = 0.984 	 Size = 157 	 Cond = 0.0035 	 Time = 0.124845887 
+Flow-Seed: 	PR = 0.968 	 RE = 0.993 	 F1 = 0.981 	 Size = 156 	 Cond = 0.0082 	 Time = 0.346097372 
+
+Community 7 has 154 nodes and a conductance of 0.013 
+Seed Set: |R| = 41, condR = 0.3746, PR = 1.0, RE = 0.2662, F1 = 0.4205 
+SimpleLoc: 	PR = 1.0  	 RE = 0.357  	 F1 = 0.526  	 Size = 55    	 Cond = 0.0052 	 Time = 0.09085707 
+FS SimLoc: 	PR = 1.0 	 RE = 0.357 	 F1 = 0.526 	 Size = 55 	 Cond = 0.0052 	 Time = 0.316782257 
+Flow-Seed: 	PR = 0.678 	 RE = 1.0 	 F1 = 0.808 	 Size = 227 	 Cond = 0.0218 	 Time = 0.337216068 
+
+Community 8 has 264 nodes and a conductance of 0.024 
+Seed Set: |R| = 79, condR = 0.4324, PR = 0.9873, RE = 0.2955, F1 = 0.4548 
+SimpleLoc: 	PR = 0.978  	 RE = 0.508  	 F1 = 0.668  	 Size = 137    	 Cond = 0.0026 	 Time = 0.103579341 
+FS SimLoc: 	PR = 0.978 	 RE = 0.508 	 F1 = 0.668 	 Size = 137 	 Cond = 0.0026 	 Time = 0.253461819 
+Flow-Seed: 	PR = 0.967 	 RE = 1.0 	 F1 = 0.983 	 Size = 273 	 Cond = 0.0098 	 Time = 0.273265945 
+
+Community 9 has 312 nodes and a conductance of 0.022 
+Seed Set: |R| = 82, condR = 0.4319, PR = 1.0, RE = 0.2628, F1 = 0.4162 
+SimpleLoc: 	PR = 1.0  	 RE = 0.875  	 F1 = 0.933  	 Size = 273    	 Cond = 0.0025 	 Time = 0.119747893 
+FS SimLoc: 	PR = 1.0 	 RE = 0.875 	 F1 = 0.933 	 Size = 273 	 Cond = 0.0025 	 Time = 0.33911052 
+Flow-Seed: 	PR = 1.0 	 RE = 0.888 	 F1 = 0.941 	 Size = 277 	 Cond = 0.0231 	 Time = 0.278763199 
+
+Community 10 has 328 nodes and a conductance of 0.032 
+Seed Set: |R| = 81, condR = 0.3996, PR = 0.9877, RE = 0.2439, F1 = 0.3912 
+SimpleLoc: 	PR = 0.382  	 RE = 0.271  	 F1 = 0.317  	 Size = 233    	 Cond = 0.0007 	 Time = 0.25910578 
+FS SimLoc: 	PR = 0.382 	 RE = 0.271 	 F1 = 0.317 	 Size = 233 	 Cond = 0.0007 	 Time = 0.413359576 
+Flow-Seed: 	PR = 0.68 	 RE = 1.0 	 F1 = 0.81 	 Size = 482 	 Cond = 0.0099 	 Time = 0.44453139 

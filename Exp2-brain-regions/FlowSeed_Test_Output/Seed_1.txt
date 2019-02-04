@@ -1,0 +1,471 @@
+Brain Dataset testing region experiments for SEPCI. Epsilon is chosen based on training experiments
+Seed sets are made up of a set of 100 initial starter nodes inside the target region, which we grow by their neighborhood.
+We include strict constraints on excluding initial starter nodes from the seed set, and a soft penalty of p_r = 1 for excluding any other seed nodes.
+
+Region 73 has conductance 0.1574 and size 3104. 
+It is closest in size to a training region with 3225 nodes.Using epsilon = 0.1
+	Seed set: conductance = 0.3573, size = 1961 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+SEPCI 		 4054		18.69		 0.0863 	 0.2066 	 0.72 	 0.9404 	 0.8156  
+
+Region 207 has conductance 0.2387 and size 3106. 
+It is closest in size to a training region with 3225 nodes.Using epsilon = 0.1
+	Seed set: conductance = 0.3995, size = 2001 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+SEPCI 		 4091		13.086		 0.1407 	 0.3297 	 0.614 	 0.8088 	 0.6981  
+
+Region 108 has conductance 0.2054 and size 3405. 
+It is closest in size to a training region with 3501 nodes.Using epsilon = 0.25
+	Seed set: conductance = 0.4113, size = 1991 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+SEPCI 		 2991		9.12		 0.2287 	 0.3726 	 0.771 	 0.6772 	 0.7211  
+
+Region 105 has conductance 0.1732 and size 3409. 
+It is closest in size to a training region with 3501 nodes.Using epsilon = 0.25
+	Seed set: conductance = 0.3729, size = 2041 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+SEPCI 		 3955		14.283		 0.1114 	 0.2735 	 0.707 	 0.8202 	 0.7594  
+
+Region 125 has conductance 0.1989 and size 3563. 
+It is closest in size to a training region with 3501 nodes.Using epsilon = 0.25
+	Seed set: conductance = 0.3839, size = 2059 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+SEPCI 		 3430		12.02		 0.1575 	 0.3104 	 0.7845 	 0.7553 	 0.7696  
+
+Region 173 has conductance 0.1679 and size 3630. 
+It is closest in size to a training region with 3501 nodes.Using epsilon = 0.25
+	Seed set: conductance = 0.382, size = 2043 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+SEPCI 		 3381		13.493		 0.1597 	 0.3183 	 0.8015 	 0.7466 	 0.7731  
+
+Region 179 has conductance 0.1827 and size 3744. 
+It is closest in size to a training region with 3965 nodes.Using epsilon = 0.05
+	Seed set: conductance = 0.4028, size = 2050 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+SEPCI 		 5173		29.422		 0.1059 	 0.2915 	 0.6488 	 0.8964 	 0.7527  
+
+Region 104 has conductance 0.1951 and size 3828. 
+It is closest in size to a training region with 3965 nodes.Using epsilon = 0.05
+	Seed set: conductance = 0.3917, size = 2045 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+SEPCI 		 6445		33.862		 0.0726 	 0.2461 	 0.5516 	 0.9287 	 0.6921  
+
+Region 136 has conductance 0.2131 and size 3889. 
+It is closest in size to a training region with 3965 nodes.Using epsilon = 0.05
+	Seed set: conductance = 0.3937, size = 2146 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+SEPCI 		 4803		34.565		 0.136 	 0.3103 	 0.6117 	 0.7555 	 0.676  
+
+Region 37 has conductance 0.1319 and size 3893. 
+It is closest in size to a training region with 3965 nodes.Using epsilon = 0.05
+	Seed set: conductance = 0.3582, size = 2087 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+SEPCI 		 5509		38.864		 0.0675 	 0.191 	 0.6395 	 0.905 	 0.7494  
+
+Region 170 has conductance 0.2412 and size 3914. 
+It is closest in size to a training region with 3965 nodes.Using epsilon = 0.05
+	Seed set: conductance = 0.4116, size = 2103 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+SEPCI 		 5326		26.23		 0.1223 	 0.3283 	 0.5349 	 0.7279 	 0.6167  
+
+Region 163 has conductance 0.2037 and size 3922. 
+It is closest in size to a training region with 3965 nodes.Using epsilon = 0.05
+	Seed set: conductance = 0.3953, size = 2032 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+SEPCI 		 4567		17.809		 0.118 	 0.2909 	 0.6681 	 0.7779 	 0.7188  
+
+Region 48 has conductance 0.152 and size 3971. 
+It is closest in size to a training region with 3965 nodes.Using epsilon = 0.05
+	Seed set: conductance = 0.377, size = 2104 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+SEPCI 		 4648		26.187		 0.0878 	 0.2056 	 0.75 	 0.8779 	 0.8089  
+
+Region 36 has conductance 0.1185 and size 4054. 
+It is closest in size to a training region with 3965 nodes.Using epsilon = 0.05
+	Seed set: conductance = 0.3745, size = 2078 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+SEPCI 		 4658		25.781		 0.0769 	 0.192 	 0.7864 	 0.9036 	 0.8409  
+
+Region 197 has conductance 0.2067 and size 4096. 
+It is closest in size to a training region with 3965 nodes.Using epsilon = 0.05
+	Seed set: conductance = 0.4036, size = 2010 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+SEPCI 		 4382		18.88		 0.133 	 0.3064 	 0.6675 	 0.7141 	 0.69  
+
+Region 47 has conductance 0.1393 and size 4126. 
+It is closest in size to a training region with 3965 nodes.Using epsilon = 0.05
+	Seed set: conductance = 0.3917, size = 2079 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+SEPCI 		 4890		29.422		 0.0886 	 0.2226 	 0.7607 	 0.9016 	 0.8252  
+
+Region 204 has conductance 0.1816 and size 4186. 
+It is closest in size to a training region with 3965 nodes.Using epsilon = 0.05
+	Seed set: conductance = 0.3928, size = 2079 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+SEPCI 		 4867		29.531		 0.1104 	 0.2763 	 0.6848 	 0.7962 	 0.7363  
+
+Region 150 has conductance 0.1897 and size 4234. 
+It is closest in size to a training region with 3965 nodes.Using epsilon = 0.05
+	Seed set: conductance = 0.4176, size = 2173 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+SEPCI 		 4650		26.293		 0.1375 	 0.3135 	 0.714 	 0.7841 	 0.7474  
+
+Region 166 has conductance 0.2007 and size 4458. 
+It is closest in size to a training region with 3965 nodes.Using epsilon = 0.05
+	Seed set: conductance = 0.3929, size = 2100 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+SEPCI 		 3994		28.889		 0.163 	 0.3202 	 0.7712 	 0.6909 	 0.7288  
+
+Region 109 has conductance 0.1919 and size 4516. 
+It is closest in size to a training region with 3965 nodes.Using epsilon = 0.05
+	Seed set: conductance = 0.4253, size = 1996 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+SEPCI 		 4097		19.956		 0.1655 	 0.3559 	 0.7803 	 0.7079 	 0.7424  
+
+Region 151 has conductance 0.1856 and size 4636. 
+It is closest in size to a training region with 5105 nodes.Using epsilon = 0.05
+	Seed set: conductance = 0.4317, size = 2108 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+SEPCI 		 4323		20.339		 0.1577 	 0.3431 	 0.7715 	 0.7194 	 0.7445  
+
+Region 171 has conductance 0.2251 and size 4697. 
+It is closest in size to a training region with 5105 nodes.Using epsilon = 0.05
+	Seed set: conductance = 0.4377, size = 2263 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+SEPCI 		 7993		27.885		 0.0933 	 0.3633 	 0.5077 	 0.864 	 0.6396  
+
+Region 161 has conductance 0.2377 and size 4702. 
+It is closest in size to a training region with 5105 nodes.Using epsilon = 0.05
+	Seed set: conductance = 0.4268, size = 2222 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+SEPCI 		 4784		24.56		 0.1544 	 0.3496 	 0.6482 	 0.6595 	 0.6538  
+
+Region 71 has conductance 0.1509 and size 5407. 
+It is closest in size to a training region with 5109 nodes.Using epsilon = 0.05
+	Seed set: conductance = 0.4087, size = 2100 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+SEPCI 		 5993		25.26		 0.0736 	 0.2287 	 0.7616 	 0.8441 	 0.8007  
+
+Region 146 has conductance 0.1981 and size 5463. 
+It is closest in size to a training region with 5109 nodes.Using epsilon = 0.05
+	Seed set: conductance = 0.4222, size = 2161 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+SEPCI 		 7778		31.362		 0.087 	 0.334 	 0.5972 	 0.8503 	 0.7016  
+
+Region 156 has conductance 0.2053 and size 5477. 
+It is closest in size to a training region with 5832 nodes.Using epsilon = 0.05
+	Seed set: conductance = 0.4461, size = 2043 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+SEPCI 		 5982		26.394		 0.0983 	 0.3347 	 0.6505 	 0.7104 	 0.6791  
+
+Region 162 has conductance 0.1834 and size 5491. 
+It is closest in size to a training region with 5832 nodes.Using epsilon = 0.05
+	Seed set: conductance = 0.419, size = 2174 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+SEPCI 		 5243		25.263		 0.1243 	 0.3193 	 0.6801 	 0.6494 	 0.6644  
+
+Region 185 has conductance 0.1922 and size 5520. 
+It is closest in size to a training region with 5832 nodes.Using epsilon = 0.05
+	Seed set: conductance = 0.4412, size = 2148 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+SEPCI 		 3799		20.124		 0.2106 	 0.3809 	 0.7257 	 0.4995 	 0.5917  
+
+Region 147 has conductance 0.1945 and size 5677. 
+It is closest in size to a training region with 5832 nodes.Using epsilon = 0.05
+	Seed set: conductance = 0.418, size = 2233 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+SEPCI 		 9218		29.612		 0.0705 	 0.3272 	 0.5484 	 0.8904 	 0.6788  
+
+Region 51 has conductance 0.0899 and size 5697. 
+It is closest in size to a training region with 5832 nodes.Using epsilon = 0.05
+	Seed set: conductance = 0.4421, size = 1612 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+SEPCI 		 4219		22.153		 0.0509 	 0.2087 	 0.9647 	 0.7144 	 0.8209  
+
+Region 102 has conductance 0.1683 and size 5766. 
+It is closest in size to a training region with 5832 nodes.Using epsilon = 0.05
+	Seed set: conductance = 0.4375, size = 2277 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+SEPCI 		 7420		28.062		 0.0946 	 0.3376 	 0.6383 	 0.8214 	 0.7183  
+
+Region 103 has conductance 0.1403 and size 5768. 
+It is closest in size to a training region with 5832 nodes.Using epsilon = 0.05
+	Seed set: conductance = 0.4168, size = 2225 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+SEPCI 		 6439		22.433		 0.0968 	 0.303 	 0.7476 	 0.8346 	 0.7887  
+
+Region 138 has conductance 0.1741 and size 5772. 
+It is closest in size to a training region with 5832 nodes.Using epsilon = 0.05
+	Seed set: conductance = 0.4395, size = 2156 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+SEPCI 		 5072		22.689		 0.1428 	 0.3601 	 0.748 	 0.6573 	 0.6997  
+
+Region 100 has conductance 0.1734 and size 5939. 
+It is closest in size to a training region with 5832 nodes.Using epsilon = 0.05
+	Seed set: conductance = 0.4266, size = 2191 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+SEPCI 		 5338		21.696		 0.1461 	 0.3713 	 0.7299 	 0.656 	 0.691  
+
+Region 62 has conductance 0.1243 and size 5980. 
+It is closest in size to a training region with 5832 nodes.Using epsilon = 0.05
+	Seed set: conductance = 0.3956, size = 2100 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+SEPCI 		 4911		24.962		 0.1027 	 0.2579 	 0.8953 	 0.7353 	 0.8075  
+
+Region 167 has conductance 0.1827 and size 6018. 
+It is closest in size to a training region with 5832 nodes.Using epsilon = 0.05
+	Seed set: conductance = 0.4457, size = 2217 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+SEPCI 		 4933		22.071		 0.1571 	 0.3798 	 0.7821 	 0.6411 	 0.7046  
+
+Region 61 has conductance 0.1188 and size 6057. 
+It is closest in size to a training region with 5832 nodes.Using epsilon = 0.05
+	Seed set: conductance = 0.4156, size = 2216 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+SEPCI 		 4997		30.905		 0.093 	 0.2357 	 0.8875 	 0.7322 	 0.8024  
+
+Region 129 has conductance 0.1695 and size 6303. 
+It is closest in size to a training region with 5832 nodes.Using epsilon = 0.05
+	Seed set: conductance = 0.4301, size = 2155 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+SEPCI 		 5237		25.982		 0.1325 	 0.3455 	 0.7859 	 0.653 	 0.7133  
+
+Region 144 has conductance 0.1648 and size 6399. 
+It is closest in size to a training region with 5832 nodes.Using epsilon = 0.05
+	Seed set: conductance = 0.434, size = 2223 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+SEPCI 		 7715		19.091		 0.0778 	 0.3108 	 0.6675 	 0.8048 	 0.7298  
+
+Region 113 has conductance 0.1861 and size 6634. 
+It is closest in size to a training region with 5832 nodes.Using epsilon = 0.05
+	Seed set: conductance = 0.4412, size = 2268 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+SEPCI 		 5002		18.593		 0.1724 	 0.3999 	 0.7893 	 0.5951 	 0.6786  
+
+Region 201 has conductance 0.2229 and size 6683. 
+It is closest in size to a training region with 5832 nodes.Using epsilon = 0.05
+	Seed set: conductance = 0.4472, size = 2294 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+SEPCI 		 4167		17.575		 0.2232 	 0.416 	 0.6811 	 0.4247 	 0.5231  
+
+Region 115 has conductance 0.2049 and size 6943. 
+It is closest in size to a training region with 7707 nodes.Using epsilon = 0.05
+	Seed set: conductance = 0.4449, size = 2187 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+SEPCI 		 3998		19.612		 0.2182 	 0.4106 	 0.7776 	 0.4478 	 0.5683  
+
+Region 112 has conductance 0.173 and size 7420. 
+It is closest in size to a training region with 7707 nodes.Using epsilon = 0.05
+	Seed set: conductance = 0.4652, size = 2338 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+SEPCI 		 5685		21.375		 0.1617 	 0.4123 	 0.8021 	 0.6146 	 0.6959  
+
+Region 139 has conductance 0.1451 and size 7502. 
+It is closest in size to a training region with 7707 nodes.Using epsilon = 0.05
+	Seed set: conductance = 0.4444, size = 2315 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+SEPCI 		 5053		19.543		 0.1604 	 0.3682 	 0.8156 	 0.5493 	 0.6565  
+
+Region 153 has conductance 0.1592 and size 7839. 
+It is closest in size to a training region with 7707 nodes.Using epsilon = 0.05
+	Seed set: conductance = 0.4399, size = 2414 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+SEPCI 		 4666		21.12		 0.1903 	 0.3789 	 0.8225 	 0.4896 	 0.6138  
+
+Region 101 has conductance 0.1324 and size 7913. 
+It is closest in size to a training region with 7707 nodes.Using epsilon = 0.05
+	Seed set: conductance = 0.4453, size = 2313 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+SEPCI 		 6015		28.413		 0.1262 	 0.3564 	 0.871 	 0.6621 	 0.7523  
+
+Region 205 has conductance 0.1536 and size 8057. 
+It is closest in size to a training region with 7707 nodes.Using epsilon = 0.05
+	Seed set: conductance = 0.4475, size = 2239 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+SEPCI 		 6737		21.532		 0.1203 	 0.4001 	 0.7609 	 0.6362 	 0.693  
+
+Region 128 has conductance 0.1829 and size 8465. 
+It is closest in size to a training region with 8547 nodes.Using epsilon = 0.05
+	Seed set: conductance = 0.4532, size = 2255 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+SEPCI 		 7060		21.256		 0.1117 	 0.3913 	 0.751 	 0.6263 	 0.683  
+
+Region 59 has conductance 0.0884 and size 8775. 
+It is closest in size to a training region with 8547 nodes.Using epsilon = 0.05
+	Seed set: conductance = 0.4542, size = 2384 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+SEPCI 		 9004		28.399		 0.0686 	 0.2935 	 0.8778 	 0.9007 	 0.8891  
+
+Region 192 has conductance 0.1507 and size 8928. 
+It is closest in size to a training region with 8547 nodes.Using epsilon = 0.05
+	Seed set: conductance = 0.4463, size = 2313 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+SEPCI 		 4822		19.844		 0.1848 	 0.3994 	 0.882 	 0.4764 	 0.6186  
+
+Region 122 has conductance 0.1896 and size 8989. 
+It is closest in size to a training region with 8547 nodes.Using epsilon = 0.05
+	Seed set: conductance = 0.4658, size = 2387 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+SEPCI 		 4599		21.404		 0.2192 	 0.437 	 0.7328 	 0.3749 	 0.496  
+
+Region 107 has conductance 0.1391 and size 9356. 
+It is closest in size to a training region with 9493 nodes.Using epsilon = 0.05
+	Seed set: conductance = 0.4741, size = 2240 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+SEPCI 		 9211		22.975		 0.0839 	 0.4059 	 0.7389 	 0.7274 	 0.7331  
+
+Region 60 has conductance 0.0921 and size 9611. 
+It is closest in size to a training region with 9493 nodes.Using epsilon = 0.05
+	Seed set: conductance = 0.451, size = 2306 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+SEPCI 		 8810		30.298		 0.0732 	 0.322 	 0.8888 	 0.8147 	 0.8501  
+
+Region 152 has conductance 0.153 and size 10274. 
+It is closest in size to a training region with 9493 nodes.Using epsilon = 0.05
+	Seed set: conductance = 0.4587, size = 2312 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+SEPCI 		 4007		17.418		 0.246 	 0.4293 	 0.8405 	 0.3278 	 0.4717  
+
+Region 203 has conductance 0.1319 and size 11040. 
+It is closest in size to a training region with 11150 nodes.Using epsilon = 0.05
+	Seed set: conductance = 0.4631, size = 2410 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+SEPCI 		 7173		26.208		 0.1234 	 0.4007 	 0.802 	 0.5211 	 0.6317  
+
+Region 134 has conductance 0.197 and size 11340. 
+It is closest in size to a training region with 11150 nodes.Using epsilon = 0.05
+	Seed set: conductance = 0.4931, size = 2348 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+SEPCI 		 3217		12.417		 0.3454 	 0.4795 	 0.8228 	 0.2334 	 0.3637  
+
+Region 202 has conductance 0.1192 and size 11760. 
+It is closest in size to a training region with 11150 nodes.Using epsilon = 0.05
+	Seed set: conductance = 0.462, size = 2424 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+SEPCI 		 7274		26.484		 0.1219 	 0.3968 	 0.855 	 0.5288 	 0.6535  
+
+Region 195 has conductance 0.1533 and size 12154. 
+It is closest in size to a training region with 11150 nodes.Using epsilon = 0.05
+	Seed set: conductance = 0.4788, size = 2374 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+SEPCI 		 3212		21.284		 0.331 	 0.4578 	 0.8577 	 0.2267 	 0.3586  
+
+Region 145 has conductance 0.1337 and size 12694. 
+It is closest in size to a training region with 13884 nodes.Using epsilon = 0.05
+	Seed set: conductance = 0.4842, size = 2314 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+SEPCI 		 4916		20.428		 0.1973 	 0.4474 	 0.8763 	 0.3394 	 0.4893  
+
+Region 123 has conductance 0.1546 and size 13657. 
+It is closest in size to a training region with 13884 nodes.Using epsilon = 0.05
+	Seed set: conductance = 0.4736, size = 2445 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+SEPCI 		 4003		22.213		 0.2643 	 0.4401 	 0.8696 	 0.2549 	 0.3942  
+
+Region 169 has conductance 0.1486 and size 13692. 
+It is closest in size to a training region with 13884 nodes.Using epsilon = 0.05
+	Seed set: conductance = 0.4765, size = 2384 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+SEPCI 		 2898		12.579		 0.3826 	 0.4641 	 0.8492 	 0.1797 	 0.2967  
+
+Region 194 has conductance 0.1519 and size 14337. 
+It is closest in size to a training region with 13884 nodes.Using epsilon = 0.05
+	Seed set: conductance = 0.483, size = 2287 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+SEPCI 		 2692		13.491		 0.3959 	 0.4707 	 0.8195 	 0.1539 	 0.2591  
+
+Region 168 has conductance 0.1504 and size 14454. 
+It is closest in size to a training region with 13884 nodes.Using epsilon = 0.05
+	Seed set: conductance = 0.4839, size = 2315 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+SEPCI 		 2519		12.061		 0.4314 	 0.4712 	 0.8384 	 0.1461 	 0.2489  
+
+Region 133 has conductance 0.1392 and size 14610. 
+It is closest in size to a training region with 15058 nodes.Using epsilon = 0.05
+	Seed set: conductance = 0.4935, size = 2437 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+SEPCI 		 4074		17.718		 0.2835 	 0.4801 	 0.8643 	 0.241 	 0.3769  
+
+Region 176 has conductance 0.1877 and size 15367. 
+It is closest in size to a training region with 15058 nodes.Using epsilon = 0.05
+	Seed set: conductance = 0.5084, size = 2333 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+SEPCI 		 2473		10.759		 0.4722 	 0.5028 	 0.8002 	 0.1288 	 0.2219  
+
+Region 177 has conductance 0.1753 and size 16088. 
+It is closest in size to a training region with 15058 nodes.Using epsilon = 0.05
+	Seed set: conductance = 0.4924, size = 2261 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+SEPCI 		 3558		17.009		 0.3007 	 0.4805 	 0.8623 	 0.1907 	 0.3123  
+
+Region 132 has conductance 0.1392 and size 17152. 
+It is closest in size to a training region with 15058 nodes.Using epsilon = 0.05
+	Seed set: conductance = 0.4928, size = 2422 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+SEPCI 		 3152		14.201		 0.3663 	 0.4857 	 0.8518 	 0.1565 	 0.2645  
+
+Region 199 has conductance 0.124 and size 17444. 
+It is closest in size to a training region with 15058 nodes.Using epsilon = 0.05
+	Seed set: conductance = 0.5063, size = 2356 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+SEPCI 		 3308		14.098		 0.3471 	 0.4957 	 0.864 	 0.1638 	 0.2754  
+
+Region 183 has conductance 0.1504 and size 17577. 
+It is closest in size to a training region with 19939 nodes.Using epsilon = 0.05
+	Seed set: conductance = 0.5028, size = 2375 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+SEPCI 		 2868		14.558		 0.4052 	 0.4956 	 0.8393 	 0.1369 	 0.2355  
+
+Region 191 has conductance 0.1423 and size 17587. 
+It is closest in size to a training region with 19939 nodes.Using epsilon = 0.05
+	Seed set: conductance = 0.5015, size = 2407 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+SEPCI 		 2611		11.371		 0.4564 	 0.4963 	 0.8315 	 0.1234 	 0.215  
+
+Region 190 has conductance 0.1355 and size 17981. 
+It is closest in size to a training region with 19939 nodes.Using epsilon = 0.05
+	Seed set: conductance = 0.4837, size = 2397 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+SEPCI 		 3190		21.109		 0.3468 	 0.4689 	 0.8567 	 0.152 	 0.2582  
+
+Region 154 has conductance 0.1422 and size 18763. 
+It is closest in size to a training region with 19939 nodes.Using epsilon = 0.05
+	Seed set: conductance = 0.4993, size = 2421 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+SEPCI 		 2551		14.319		 0.4697 	 0.4946 	 0.8283 	 0.1126 	 0.1983  
+
+Region 155 has conductance 0.1358 and size 21206. 
+It is closest in size to a training region with 21317 nodes.Using epsilon = 0.05
+	Seed set: conductance = 0.4784, size = 2426 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+SEPCI 		 2832		22.128		 0.3962 	 0.4673 	 0.8535 	 0.114 	 0.2011  
+
+Region 40 has conductance 0.1097 and size 21489. 
+It is closest in size to a training region with 21317 nodes.Using epsilon = 0.05
+	Seed set: conductance = 0.4985, size = 2447 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+SEPCI 		 2722		15.09		 0.4404 	 0.4936 	 0.8725 	 0.1105 	 0.1962  
+
+Region 35 has conductance 0.0462 and size 22457. 
+It is closest in size to a training region with 21317 nodes.Using epsilon = 0.05
+	Seed set: conductance = 0.4928, size = 2426 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+SEPCI 		 23760		64.385		 0.0278 	 0.4667 	 0.8603 	 0.9102 	 0.8846  
+
+Region 142 has conductance 0.1208 and size 23521. 
+It is closest in size to a training region with 21317 nodes.Using epsilon = 0.05
+	Seed set: conductance = 0.5043, size = 2475 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+SEPCI 		 2567		11.063		 0.4821 	 0.5003 	 0.8438 	 0.0921 	 0.1661  
+
+Region 38 has conductance 0.0774 and size 67809. 
+It is closest in size to a training region with 67353 nodes.Using epsilon = 0.05
+	Seed set: conductance = 0.5244, size = 2519 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+SEPCI 		 2537		11.107		 0.5199 	 0.5237 	 0.8794 	 0.0329 	 0.0634  
+
+Region 44 has conductance 0.0649 and size 259100. 
+It is closest in size to a training region with 258569 nodes.Using epsilon = 0.05
+	Seed set: conductance = 0.5307, size = 2590 
+Penalty 	 _Size_ 	 _Time_ 	 _Cond_ 	 R-cond 	 precision 	 recall 	 F1-score  
+SEPCI 		 2605		9.549		 0.5266 	 0.53 	 0.9186 	 0.0092 	 0.0183  
