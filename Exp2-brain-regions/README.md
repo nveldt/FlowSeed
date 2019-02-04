@@ -6,7 +6,7 @@ This readme provides details for obtaining the data and reproducing the brain MR
 Nate Veldt, Christine Klymko, and David Gleich  
 *Proceedings of the 2019 SIAM International Conference on Data Mining*
 
-ArXiv preprint: [https://arxiv.org/abs/1811.12280]()
+ArXiv preprint: [https://arxiv.org/abs/1811.12280](https://arxiv.org/abs/1811.12280)
 
 Note that we use the same graph previously used in experiments in the paper
 
@@ -18,12 +18,12 @@ Proceedings of the 2016 International Conference on Machine Learning
 
 The brain graph is constructed from MRI data we originally obtained as a part of the MICCAI 2012 Grand Challenge and Workshop on Multi-Atlas Labeling
 
-[http://www.miccai.org/news/miccai-2012-workshops-and-challenges-call-papers]()
-The original data came from the OASIS project: [https://www.oasis-brains.org/](). Specifically, we used the OASIS-1 dataset:
+[http://www.miccai.org/news/miccai-2012-workshops-and-challenges-call-papers](http://www.miccai.org/news/miccai-2012-workshops-and-challenges-call-papers)
+The original data came from the OASIS project: [https://www.oasis-brains.org/](https://www.oasis-brains.org/). Specifically, we used the OASIS-1 dataset:
 
 * Marcus, Daniel S., et al. "Open Access Series of Imaging Studies (OASIS): cross-sectional MRI data in young, middle aged, nondemented, and demented older adults." Journal of cognitive neuroscience 19.9 (2007): 1498-1507.
 
-As of 1-22-19, the form for requesting the MICCAI 2012 data can still be found here: [https://my.vanderbilt.edu/masi/workshops/]()
+As of 1-22-19, the form for requesting the MICCAI 2012 data can still be found here: [https://my.vanderbilt.edu/masi/workshops/](https://my.vanderbilt.edu/masi/workshops/)
 
 The data from MICCAI 2012 challenge contains many training and testing images. The MRI we used to constuct the brain graph can from file `1000_3.nii`, and the corresonding region labels came from file `1000_3_glm.nii.gz`.
 
@@ -31,7 +31,7 @@ The data from MICCAI 2012 challenge contains many training and testing images. T
 
 In order to extract the MRI and region labels from the .nii files, we used the nii reader available at:
 
-[https://www.mathworks.com/matlabcentral/fileexchange/8797-tools-for-nifti-and-analyze-image/content/load_nii.m]()
+[https://www.mathworks.com/matlabcentral/fileexchange/8797-tools-for-nifti-and-analyze-image/content/load_nii.m](https://www.mathworks.com/matlabcentral/fileexchange/8797-tools-for-nifti-and-analyze-image/content/load_nii.m)
 
 We include a copy of this software in this GitHub repo.
 

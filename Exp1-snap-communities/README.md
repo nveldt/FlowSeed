@@ -6,14 +6,14 @@ This readme provides details for obtaining the data and reproducing the communit
 Nate Veldt, Christine Klymko, and David Gleich  
 *Proceedings of the 2019 SIAM International Conference on Data Mining*
 
-ArXiv preprint: [https://arxiv.org/abs/1811.12280]()
+ArXiv preprint: [https://arxiv.org/abs/1811.12280](https://arxiv.org/abs/1811.12280)
 
 ## Datasets
 
 See datasets folder. 
 
 ### Original Data
-The datasets used for our experiments were downloaded from the SNAP group on the SuiteSparse matrix collection ([https://sparse.tamu.edu/]()). The are also available directly on the SNAP website ([https://snap.stanford.edu/data/index.html]()).
+The datasets used for our experiments were downloaded from the SNAP group on the SuiteSparse matrix collection ([https://sparse.tamu.edu/](https://sparse.tamu.edu/)). The are also available directly on the SNAP website ([https://snap.stanford.edu/data/index.html](https://snap.stanford.edu/data/index.html)).
 
 SuiteSparse provides the data in .mat files.
 
@@ -25,7 +25,7 @@ com-Orkut.mat
 Each .mat files comes with a set of top 5000 communities as identified by Yang and Leskovec.
 
 J. Yang and J. Leskovec. Defining and Evaluating Network Communities based 
-on Ground-truth. ICDM, 2012.  [http://arxiv.org/abs/1205.6233 ]() 
+on Ground-truth. ICDM, 2012.  [http://arxiv.org/abs/1205.6233](http://arxiv.org/abs/1205.6233) 
 
 ### Extracting Largest 10 communities
 
@@ -36,7 +36,7 @@ Amazon_top10.m
 
 We have a separate file for Amazon, because some of the largest communties are in fact identical to each other. We do a little extra work to ensure we have the top 10 unique and distinct largest communities for this dataset.
 
-The file community_stats_average_table was used to compute statistics for the communities from each network, to put them in Table 1 in the full version of the paper on arXiv: [https://arxiv.org/abs/1811.12280]()
+The file community_stats_average_table was used to compute statistics for the communities from each network, to put them in Table 1 in the full version of the paper on arXiv: [https://arxiv.org/abs/1811.12280](https://arxiv.org/abs/1811.12280)
 
 ### Creating edgelists
 
