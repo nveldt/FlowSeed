@@ -497,15 +497,15 @@ function NonLocalPushRelabel(A::SparseMatrixCSC{Float64,Int64},R::Vector{Int64},
     sWeights::Array{Float64},tWeights::Array{Float64})
 
         # Directly set up the flow matrix
-        C = [0 tWeights';
-            tWeights A]
+        C = [spzeros(1,1) sparse(tWeights');
+            sparse(tWeights) A]
 
         # Allocate space for the flow we will calculate
         F = SparseMatrixCSC(n+1,n+1,C.colptr,C.rowval,zeros(length(C.rowval)))
 
         # R is the set of nodes with excess, and the excess
         # will come from source-side edges that are immediately saturated
-        S, F, excess = Main_Push_Relabel(C,F,R+1,[0;sWeights])
+        S, F, excess = Main_Push_Relabel(C,F,R.+1,[0;sWeights])
 
         # The returned F is a preflow, not the maximum flow.
         # We are only interested in the cut.

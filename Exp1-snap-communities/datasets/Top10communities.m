@@ -1,6 +1,6 @@
 addpath('~/GitHubRepos/LargeFiles/')
 
-graph = {'DBLP','Amazon','Youtube','LiveJournal','Orkut'};
+graph = {'DBLP','LiveJournal','Orkut'};
 
 for g = graph
  
